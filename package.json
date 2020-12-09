@@ -1,0 +1,27 @@
+{
+  "name": "vital-cli",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "commandName": "vital",
+  "bin": {
+    "vital": "index.js"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "quick"
+  ],
+  "author": "vital",
+  "license": "MIT",
+  "homepage": "https://github.com/zfnb/vue-project-template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zfnb/vue-project-template"
+  },
+  "dependencies": {
+    "commander": "^6.2.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.5"
+  }
+}
